@@ -1,0 +1,57 @@
+@font-face {
+	src: url(fonts/Facon.ttf);
+	font-family: Facon;
+}
+
+@font-face {
+	src: url(fonts/HelveticaNeue.ttf);
+	font-family: HelveticaNeue;
+}
+
+body {
+	background-color: #000000;
+	margin: 32px;
+}
+
+h1 {
+	font-family: Facon;
+	font-size: 64px;
+	color: #1ed259;
+}
+
+h2 {
+	color: white;
+	font-family: Segoe UI;
+}
+
+h3 {
+	color: white;
+	font-family: Segoe UI;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #1ed259;
+}
+
+input.submit {
+	margin: 10px;
+}
+
+img {
+	width: 35%;
+}
+
+th {
+	color: white;
+	font-family: Segoe UI;
+}
+
+td {
+	color: white;
+	font-family: Segoe UI;
+}
